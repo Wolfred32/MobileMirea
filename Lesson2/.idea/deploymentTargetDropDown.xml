@@ -8,10 +8,22 @@
       <entry key="app">
         <State />
       </entry>
+      <entry key="control_lesson2">
+        <State />
+      </entry>
+      <entry key="dialog">
+        <State />
+      </entry>
       <entry key="intentfilter">
         <State />
       </entry>
       <entry key="multiactivity">
+        <State />
+      </entry>
+      <entry key="notificationapp">
+        <State />
+      </entry>
+      <entry key="toastapp">
         <State />
       </entry>
     </value>
