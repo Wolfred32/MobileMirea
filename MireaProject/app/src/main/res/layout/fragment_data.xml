@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#C5F7FB"
+    tools:context=".DataFragment">
+
+    <androidx.cardview.widget.CardView
+        android:id="@+id/cardView"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:layout_margin="16dp"
+        app:cardBackgroundColor="#CD4646"
+        app:cardCornerRadius="8dp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent">
+
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:padding="16dp">
+
+            <ImageView
+                android:id="@+id/person_photo"
+                android:layout_width="172dp"
+                android:layout_height="184dp"
+                android:layout_alignParentLeft="true"
+                android:layout_alignParentTop="true"
+                android:layout_marginRight="16dp"
+                app:srcCompat="@drawable/gear_5" />
+
+            <TextView
+                android:id="@+id/person_name"
+                android:layout_width="161dp"
+                android:layout_height="116dp"
+                android:layout_alignParentTop="true"
+                android:layout_toRightOf="@+id/person_photo"
+                android:fontFamily="sans-serif-black"
+                android:gravity="center"
+                android:text=" Монки Д. Луффи"
+                android:textColor="#FFC107"
+                android:textSize="34sp" />
+
+            <TextView
+                android:id="@+id/info"
+                android:layout_width="161dp"
+                android:layout_height="68dp"
+                android:layout_below="@+id/person_name"
+                android:layout_toRightOf="@+id/person_photo"
+                android:fontFamily="sans-serif-black"
+                android:gravity="center"
+                android:text="Пятый Гир"
+                android:textColor="#FFC107"
+                android:textSize="24sp" />
+        </RelativeLayout>
+    </androidx.cardview.widget.CardView>
+
+    <ScrollView
+        android:layout_width="371dp"
+        android:layout_height="429dp"
+        android:layout_marginStart="16dp"
+        android:layout_marginEnd="16dp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/cardView">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="vertical">
+
+            <TextView
+                android:id="@+id/textView8"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:fontFamily="sans-serif-medium"
+                android:gravity="center"
+                android:text="Пробуждение Гому Гому но Ми, ранее известного как Хито Хито но Ми, Модель: Ника, наделяет резиновое тело пользователя повышенной силой и свободой, ограниченной только воображением пользователя. Именно по этой причине считается, что пользователь становится &quot;воплощением свободы&quot;. Эти способности наделяют пользователя &quot;самой нелепой силой в мире&quot;. Одной из наиболее примечательных особенностей пробужденного фрукта является появление мультяшных эффектов не только у пользователю при использовании силы плода, но и его противнику, участвующему в сражении. Кроме того, находясь в этом состоянии, пользователь находится в состоянии восторга и уверенности в своих действиях."
+                android:textAlignment="center"
+                android:textColor="#000000"
+                android:textSize="18sp" />
+        </LinearLayout>
+    </ScrollView>
+
+</androidx.constraintlayout.widget.ConstraintLayout>
