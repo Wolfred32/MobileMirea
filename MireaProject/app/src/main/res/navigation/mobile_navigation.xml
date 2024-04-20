@@ -32,4 +32,9 @@
         android:name="ru.mirea.filevsa.mireaproject.DataFragment"
         android:label="fragment_data"
         tools:layout="@layout/fragment_data" />
+    <fragment
+        android:id="@+id/nav_worker"
+        android:name="ru.mirea.filevsa.mireaproject.WorkerFragment"
+        android:label="Worker"
+        tools:layout="@layout/fragment_worker" />
 </navigation>
