@@ -11,5 +11,5 @@
 - ✅ <a href="https://github.com/Wolfred32/MobileMirea/tree/main/Lesson5">**Практика №5**</a> - Проверена.
 - 🔄 <a href="https://github.com/Wolfred32/MobileMirea/tree/main/Lesson6">**Практика №6**</a> - Готова к проверке. **Без MireaProject**
 - 🔄 <a href="https://github.com/Wolfred32/MobileMirea/tree/main/Lesson7">**Практика №7**</a> - Готова к проверке. **Без MireaProject**
-- ❌ **Практика №8** - Не готова.
+- ❌ <a href="https://github.com/Wolfred32/MobileMirea/tree/main/Lesson8">**Практика №8**</a> - Готова к проверке. **Без MireaProject**
 - ♻️ <a href="https://github.com/Wolfred32/MobileMirea/tree/main/MireaProject">**MireaProject**</a> - Выполнена 5-я практика.
