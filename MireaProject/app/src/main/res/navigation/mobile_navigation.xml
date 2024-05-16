@@ -30,7 +30,7 @@
     <fragment
         android:id="@+id/nav_data"
         android:name="ru.mirea.filevsa.mireaproject.DataFragment"
-        android:label="fragment_data"
+        android:label="Data"
         tools:layout="@layout/fragment_data" />
     <fragment
         android:id="@+id/nav_worker"
@@ -52,4 +52,24 @@
         android:name="ru.mirea.filevsa.mireaproject.Microphone"
         android:label="Microphone"
         tools:layout="@layout/fragment_microphone" />
+    <fragment
+        android:id="@+id/nav_profile"
+        android:name="ru.mirea.filevsa.mireaproject.Profile"
+        android:label="Profile dota"
+        tools:layout="@layout/fragment_profile" />
+    <fragment
+        android:id="@+id/nav_workingWithFiles"
+        android:name="ru.mirea.filevsa.mireaproject.WorkingWithFiles"
+        android:label="WorkingWithFiles"
+        tools:layout="@layout/fragment_working_with_files"/>
+    <fragment
+        android:id="@+id/nav_internetResourse"
+        android:name="ru.mirea.filevsa.mireaproject.InternetResource"
+        android:label="Meme generator"
+        tools:layout="@layout/fragment_internet_resource"/>
+    <fragment
+        android:id="@+id/nav_cafe"
+        android:name="ru.mirea.filevsa.mireaproject.Cafe"
+        android:label="Cafe"
+        tools:layout="@layout/fragment_cafe" />
 </navigation>

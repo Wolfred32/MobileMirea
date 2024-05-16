@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".Profile">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginHorizontal="30dp"
+        android:gravity="center"
+        android:layout_centerInParent="true"
+        android:orientation="vertical"
+        >
+
+        <TextView
+            android:id="@+id/title_dota"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Данные игрока Dota 2"
+            android:textColor="#6200ED"
+            android:textSize="34sp" />
+
+        <EditText
+            android:id="@+id/mmrField"
+            android:layout_marginTop="5dp"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:hint="Сколько у вас MMR"
+            android:textSize="20sp"
+            />
+        <EditText
+            android:id="@+id/heroField"
+            android:layout_marginTop="5dp"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:hint="Любимый герой"
+            android:textSize="20sp"
+            />
+        <EditText
+            android:id="@+id/posField"
+            android:layout_marginTop="5dp"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:hint="Мэйн позиция"
+            android:textSize="20sp"
+            />
+        <EditText
+            android:id="@+id/steamField"
+            android:layout_marginTop="5dp"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:hint="Логин steam"
+            android:textSize="20sp"
+            />
+
+        <Button
+            android:id="@+id/saveBtn"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="20dp"
+            android:text="Отправить" />
+    </LinearLayout>
+
+</RelativeLayout>

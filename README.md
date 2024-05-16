@@ -9,7 +9,7 @@
 - ✅ <a href="https://github.com/Wolfred32/MobileMirea/tree/main/Lesson3">**Практика №3**</a> - Проверена.
 - ✅ <a href="https://github.com/Wolfred32/MobileMirea/tree/main/Lesson4">**Практика №4**</a> - Проверена.
 - ✅ <a href="https://github.com/Wolfred32/MobileMirea/tree/main/Lesson5">**Практика №5**</a> - Проверена.
-- 🔄 <a href="https://github.com/Wolfred32/MobileMirea/tree/main/Lesson6">**Практика №6**</a> - Готова к проверке. **Без MireaProject**
-- 🔄 <a href="https://github.com/Wolfred32/MobileMirea/tree/main/Lesson7">**Практика №7**</a> - Готова к проверке. **Без MireaProject**
-- 🔄 <a href="https://github.com/Wolfred32/MobileMirea/tree/main/Lesson8">**Практика №8**</a> - Готова к проверке. **Без MireaProject**
-- ♻️ <a href="https://github.com/Wolfred32/MobileMirea/tree/main/MireaProject">**MireaProject**</a> - Выполнена 5-я практика.
+- 🔄 <a href="https://github.com/Wolfred32/MobileMirea/tree/main/Lesson6">**Практика №6**</a> - Готова к проверке.
+- 🔄 <a href="https://github.com/Wolfred32/MobileMirea/tree/main/Lesson7">**Практика №7**</a> - Готова к проверке.
+- 🔄 <a href="https://github.com/Wolfred32/MobileMirea/tree/main/Lesson8">**Практика №8**</a> - Готова к проверке.
+- ♻️ <a href="https://github.com/Wolfred32/MobileMirea/tree/main/MireaProject">**MireaProject**</a> - Закончена.

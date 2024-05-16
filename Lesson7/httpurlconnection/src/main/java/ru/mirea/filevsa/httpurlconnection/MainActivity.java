@@ -22,7 +22,6 @@ import java.net.URL;
 import ru.mirea.filevsa.httpurlconnection.databinding.ActivityMainBinding;
 
 public class MainActivity extends AppCompatActivity {
-    //Прошу не пинать за выбор цветов в xml файле, я художник, я так вижу
     private ActivityMainBinding binding;
 
     @Override

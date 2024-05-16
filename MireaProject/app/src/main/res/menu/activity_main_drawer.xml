@@ -40,5 +40,21 @@
             android:id="@+id/nav_microphone"
             android:icon="@drawable/microphone"
             android:title="Microphone" />
+        <item
+            android:id="@+id/nav_profile"
+            android:icon="@drawable/dota"
+            android:title="Profile dota" />
+        <item
+            android:id="@+id/nav_workingWithFiles"
+            android:icon="@drawable/file"
+            android:title="File conversion" />
+        <item
+            android:id="@+id/nav_internetResourse"
+            android:icon="@drawable/cat"
+            android:title="Cats fact generator" />
+        <item
+            android:id="@+id/nav_cafe"
+            android:icon="@drawable/map_cafe"
+            android:title="Cool cafes" />
     </group>
 </menu>
